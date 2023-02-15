@@ -1,1 +1,3 @@
 *.ipynb_checkpoints
+*.sas7bdat
+*.csv
