@@ -1,0 +1,4 @@
+- Replicate Revealed comparative advantage (RCA)
+- Calculate RCA by using the new methodology (See paper on Pablo whats chat)
+- Set the RCA cutoff
+- Generate the country product network 
